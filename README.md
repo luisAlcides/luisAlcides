@@ -14,8 +14,9 @@ Sitio personal de una sola página (`index.html`) hecho con HTML, CSS y JavaScri
 ## Estructura
 
 ```
-portfolio/
+.
 ├── index.html
+├── README.md
 └── assets/
     ├── finanzasdaily.jpg
     ├── improductive.jpg
@@ -32,9 +33,9 @@ portfolio/
 
 ## Publicar en GitHub Pages
 
-1. Sube el contenido de esta carpeta (`index.html` + `assets/`) a la raíz de un repositorio en GitHub (por ejemplo `luisAlcides.github.io` para que quede en el dominio raíz, o cualquier otro repo).
+1. Haz push de este repositorio a GitHub (por ejemplo como `luisAlcides.github.io` para que quede en el dominio raíz, o con cualquier otro nombre).
 2. Ve a **Settings → Pages**.
-3. En **Source**, selecciona la rama `main` y la carpeta `/root` (o `/ (root)`).
+3. En **Source**, selecciona la rama `main` y la carpeta `/ (root)`.
 4. Guarda y espera unos minutos: el sitio quedará disponible en `https://<usuario>.github.io/` o `https://<usuario>.github.io/<repo>/`.
 
 ## Editar
