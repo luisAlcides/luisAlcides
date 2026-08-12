@@ -6,7 +6,8 @@
 
 ### Full Stack Developer — Python · JavaScript · Linux
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-luisAlcides.github.io-6ee7b7?style=flat-square)](https://luisAlcides.github.io)
+[![Ver mi sitio web](https://img.shields.io/badge/🌐_Ver_mi_sitio_web-luisalcides.github.io%2FluisAlcides-6ee7b7?style=for-the-badge)](https://luisalcides.github.io/luisAlcides/)
+
 [![Email](https://img.shields.io/badge/Email-luisalcidesblandon%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=white)](mailto:luisalcidesblandon@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-luisAlcides-181717?style=flat-square&logo=github)](https://github.com/luisAlcides)
 
@@ -72,5 +73,5 @@ Desarrollo aplicaciones web completas — backend en Python y frontend en JavaSc
 ---
 
 <div align="center">
-<sub>Este README también se publica como sitio web en <a href="https://luisAlcides.github.io">luisAlcides.github.io</a> (ver <code>index.html</code>).</sub>
+<sub>👉 Conoce todos mis proyectos en detalle en <a href="https://luisalcides.github.io/luisAlcides/"><b>luisalcides.github.io/luisAlcides</b></a></sub>
 </div>
