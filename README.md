@@ -1,43 +1,76 @@
-# Portafolio — Luis Alcides Blandón
+<div align="center">
 
-Sitio personal de una sola página (`index.html`) hecho con HTML, CSS y JavaScript puro, listo para publicarse en GitHub Pages.
+<img src="https://avatars.githubusercontent.com/u/67486734?v=4" width="120" style="border-radius:50%" alt="Luis Alcides Blandón"/>
 
-## Contenido
+# ¡Hola! Soy Luis Alcides Blandón 👋
 
-- **Hero** con foto de perfil, efecto de escritura (typing effect) y animaciones de entrada.
-- **Stack tecnológico**: Python (Django, Flask), JavaScript, HTML5/CSS3, PostgreSQL, Git/GitHub, Linux, Railway, Selenium, Jupyter Notebook.
-- **Proyectos**: Finanzas Daily, Improductive, BookTracker y el sitio de Wing Chun Kuen Nicaragua.
-- **Invitaciones digitales**: tarjetas de invitación interactivas (XV años, bodas, hotel).
-- **Herramientas**: utilidades web (calculadora de apuestas, focus timer, calculadora de retenciones INSS/IR).
-- Cada tarjeta de proyecto incluye una captura de pantalla real de la aplicación, guardada en `assets/`.
+### Full Stack Developer — Python · JavaScript · Linux
 
-## Estructura
+[![Portfolio](https://img.shields.io/badge/Portfolio-luisAlcides.github.io-6ee7b7?style=flat-square)](https://luisAlcides.github.io)
+[![Email](https://img.shields.io/badge/Email-luisalcidesblandon%40gmail.com-7dd3fc?style=flat-square&logo=gmail&logoColor=white)](mailto:luisalcidesblandon@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-luisAlcides-181717?style=flat-square&logo=github)](https://github.com/luisAlcides)
 
-```
-.
-├── index.html
-├── README.md
-└── assets/
-    ├── finanzasdaily.jpg
-    ├── improductive.jpg
-    ├── booktracker.jpg
-    ├── wingchun.jpg
-    ├── kamilaq.jpg
-    ├── invitacion2.jpg
-    ├── bugambilias.jpg
-    ├── weddingalvarogaby.jpg
-    ├── calculadoraapuestas.jpg
-    ├── focustimer.jpg
-    └── calcinssir.jpg
-```
+</div>
 
-## Publicar en GitHub Pages
+---
 
-1. Haz push de este repositorio a GitHub (por ejemplo como `luisAlcides.github.io` para que quede en el dominio raíz, o con cualquier otro nombre).
-2. Ve a **Settings → Pages**.
-3. En **Source**, selecciona la rama `main` y la carpeta `/ (root)`.
-4. Guarda y espera unos minutos: el sitio quedará disponible en `https://<usuario>.github.io/` o `https://<usuario>.github.io/<repo>/`.
+### 💻 Sobre mí
 
-## Editar
+Desarrollo aplicaciones web completas — backend en Python y frontend en JavaScript — y las llevo hasta producción con despliegues reales en Railway y Netlify. Me interesa la automatización, la ciencia de datos y experimentar con inteligencia artificial.
 
-Todo el sitio vive en un único archivo `index.html` (HTML + CSS + JS inline), salvo las capturas de proyectos que están en `assets/`. Para actualizar textos, stack o proyectos, edita directamente ese archivo.
+### 🛠️ Stack tecnológico
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
+
+### 🚀 Proyectos
+
+| Proyecto | Descripción | Enlace |
+|---|---|---|
+| 💰 **Finanzas Daily** | Seguimiento y control de gastos e ingresos diarios | [finanzasdailyapp.up.railway.app](https://finanzasdailyapp.up.railway.app) |
+| ✅ **Improductive** | Organización de hábitos, metas y estadísticas de productividad | [improductive.up.railway.app](https://improductive.up.railway.app) |
+| 📚 **BookTracker** | Registro y seguimiento de libros leídos | [booktracker.up.railway.app](https://booktracker.up.railway.app) |
+| 🥋 **Wing Chun Kuen Nicaragua** | Sitio institucional de la escuela de Wing Chun Kuen | [wingchunkuenicaragua.com](https://wingchunkuenicaragua.com) |
+
+### 💌 Invitaciones digitales
+
+| Proyecto | Descripción | Enlace |
+|---|---|---|
+| 🎀 **Kamila Quiñonez** | Invitación digital interactiva de XV años | [kamilaq.netlify.app](https://kamilaq.netlify.app/) |
+| 🎀 **Rosseling Quezada** | Invitación digital interactiva de XV años | [taupe-lollipop-7f77bb.netlify.app](https://taupe-lollipop-7f77bb.netlify.app/) |
+| 🏨 **Hotel Bugambilias** | Landing digital para la gran inauguración del hotel | [hotel-bugambilias.netlify.app](https://hotel-bugambilias.netlify.app/) |
+| 💍 **Álvaro & Gaby** | Invitación digital de boda | [weddingalvarogaby.netlify.app](https://weddingalvarogaby.netlify.app/) |
+
+### 🧰 Herramientas
+
+| Herramienta | Descripción | Enlace |
+|---|---|---|
+| 🎲 **Calculadora de Apuestas** | Cálculo de montos y probabilidades en apuestas | [calculadora-apuestas.netlify.app](https://calculadora-apuestas.netlify.app) |
+| ⏱️ **Focus Timer Stop** | Temporizador de enfoque para sesiones de trabajo | [focustimerstop.netlify.app](https://focustimerstop.netlify.app/) |
+| 🧾 **Calc INSSIR** | Calculadora de retenciones INSS/IR (Nicaragua) | [calcinssir.netlify.app](https://calcinssir.netlify.app/) |
+
+### 📫 Contacto
+
+[![Email](https://img.shields.io/badge/Email-luisalcidesblandon%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:luisalcidesblandon@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-luisAlcides-181717?style=flat-square&logo=github)](https://github.com/luisAlcides)
+
+---
+
+<div align="center">
+<sub>Este README también se publica como sitio web en <a href="https://luisAlcides.github.io">luisAlcides.github.io</a> (ver <code>index.html</code>).</sub>
+</div>
